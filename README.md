@@ -1,5 +1,6 @@
 # Machin-Learning-for-Cars-Price
-Machin Learning for Cars Price using Selenium web scraping and Decision Tree method
+Machin Learning for Cars Price using Selenium web scraping and Decision Tree method.
+
 First, by using the Selenium library, the desired car data is extracted from the website Divar.ir (Iranian second-hand vehicles). To change the car model, activate the input section and disable the default mode. It takes a while to scrape enough data.
 Then the data is cleaned using regex and organized into a data frame.
 Correlation of the data is displayed by linear regression using Seaborn library.
